@@ -2,7 +2,7 @@
 Hi, I'm Patrick!🐧 I do work in AI and data analysis 🤖<br>Some of my professional interests are: novel neural network architectures (and the sexy math that goes with it), non-neural network machine learning, and decentralized technology(mostly in the form of block chain and decentralized programs). 🖥️🌐<br><br>A lil' bit more about me:<br>🧑‍🎓 I'm currently in my last year of my masters degree in Artificial Intelligence<br>✏️ I would love to collab on research in AI or decentralized tech!<br>📚 I'm currently working on language embeddings with Tsetlin Machines, if anyone has a cool idea for encoding position that scales well please reach out!<br>🦀 I'm currently learning rust and c++<br>📖 Favorite book: Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness<br>🌍🌏 Dream Trip: Cross-Eurasian road trip with some friends
 
 ## 👀 POV me chasing bugs: 🐧
-https://github.com/user-attachments/assets/9cede9ea-db17-4dbc-9eb9-bcc7ae6ffc1a
+[Bug Hunt 🐛](https://github.com/user-attachments/assets/a1d954b4-f244-4a27-9fc0-072f747a3930)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patrick-karlsen-ai/) 
